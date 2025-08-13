@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, My name is Sebastian Guido
+
+## I play water polo, basketball, am good at math and am learning Computer Science by taking CSA.
 
 <!--
 **Sebastian-Guido/Sebastian-Guido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
